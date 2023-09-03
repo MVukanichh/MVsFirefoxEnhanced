@@ -67,9 +67,10 @@ While FirefoxEnhanced is a mouse-drag improvement, it is also customizable. It i
 
 In order for FirefoxEnhanced to be installed, next software is needed:
 
-* Up-to-date Firefox Nightly
+* Up-to-date Firefox Nightly (v117+)
+  - black7375's Lepton supports pre-v117 versions but FirefoxEnhanced will not have a version that includes files that support those versions; therefore, only versions supportable are v117 and higher.
 * Notepad++
-  - Notepad++ is used to customize ``user.JS`` to suit user's preferences. It is not necessary to have and use, but it is recommended.
+  - Notepad++ is used to customize ``user.JS`` to suit user's preferences. It is not necessary to have and use, but is recommended.
 
 ### Installation
 
