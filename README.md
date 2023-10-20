@@ -1,22 +1,22 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<!--   <a href="https://github.com/MVukanichh/FirefoxEnhanced">
+<!--   <a href="https://github.com/MVukanichh/MVsFirefoxEnhanced">
     <img src="assets/images/logo.png" alt="Logo" width="896" height="368">
   </a>
  -->
-  <h1 align="center">Firefox Enhanced</h1>
+  <h1 align="center">MVukanichh's Firefox Enhanced</h1>
 
   <p align="center">
-   Firefox Enhanced improves Firefox by enhancing it's speed, look and feel.
+   MVukanichh's Firefox Enhanced improves Firefox by enhancing it's speed, look and feel.
     <br />
     <a href="../main/CHANGELOG.md">View Changelog</a>
     ·
     <a href="../main/LICENSE.txt">View License</a>
     ·
-    <a href="https://github.com/MVukanichh/FirefoxEnhanced/issues">Report Bug</a>
+    <a href="https://github.com/MVukanichh/MVsFirefoxEnhanced/issues">Report Bug</a>
     ·
-    <a href="https://github.com/MVukanichh/FirefoxEnhanced/issues">Request Feature</a>
+    <a href="https://github.com/MVukanichh/MVsFirefoxEnhanced/issues">Request Feature</a>
   </p>
 </div>
 
@@ -49,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-FirefoxEnhanced is a project made to improve Firefox. It includes ``user.JS`` file which tweaks Firefox, improving it's speed, smoothness and security, while not compromising usability in any way. It also includes ``userchrome.css`` file which improves Firefox's user interface, while staying true to Firefox looks.
+MVukanichh's FirefoxEnhanced (later in the text just FirefoxEnhanced) is a project made to improve Firefox. It includes ``user.JS`` file which tweaks Firefox, improving it's speed, smoothness and security, while not compromising usability in any way. It also includes ``userchrome.css`` file which improves Firefox's user interface, while staying true to Firefox looks.
 
 To accomplish this, FirefoxEnhanced uses Yokoffing's BetterFox ``user.JS``'s files and black7375's Lepton.
 
@@ -147,7 +147,7 @@ Roadmap for future FirefoxEnhanced release:
 - [ ] Add more content
 - [ ] Add images as examples
 
-See the [open issues](https://github.com/MVukanichh/FirefoxEnhanced/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/MVukanichh/MVsFirefoxEnhanced/issues) for a full list of proposed features (and known issues).
 
 ---
 
