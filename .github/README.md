@@ -106,7 +106,7 @@ Note that you must decide whenever you want a profile without Firefox Enhanced a
 * Turn off Firefox Nightly
 * Continue with the guide
 
- 3. Open ``Firefox-Enhanced-vX.X.X.7z`` file
+ 3. Open ``Firefox-Enhanced-vDDMMYYYY_X.X.X.X.7z`` file
  4. Move everything to the Profile Folder that was opened before
  5. Launch Firefox Nightly
 
@@ -133,6 +133,20 @@ Note that ``"Profile"`` should be the name of your Firefox Profile. In order to 
 Also note that there should be a space between ``-P "Profile"`` and the previous string.
 
 This can be done for both profiles, but it is not needed, as a shortcut without ``-P "Profile"`` will launch a profile that's set as a Default Profile in ``about:profiles``.
+
+#### UBlock Origins Settings
+
+In order to apply MVsFirefoxEnhanced UBlock Origins Setting, you must do the following:
+
+1. Install [UBlock Origins](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+2. Download ``MVsFirefoxEnhanced_UBlock_Origins_Settings.txt`` from the Latest MVsFirefoxEnhanced Release
+3. Left click on ``UBlock Origins Icon`` in Firefox Toolbar next to Address Bar
+4. Press ``Open the Dashboard`` in bottom-right corner
+5. In the newly opened tab, scroll all the way down
+6. Click on ``Restore from file...``
+7. Navigate to where ``MVsFirefoxEnhanced_UBlock_Origins_Settings.txt`` is downloaded
+8. Click on ``MVsFirefoxEnhanced_UBlock_Origins_Settings.txt`` and press Open.
+9. On the next pop-up press ``OK``
 
 ---
 
