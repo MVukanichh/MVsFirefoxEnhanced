@@ -1,6 +1,6 @@
 # ChangeLog
 
-### Version ??112023_1.2
+### Version 16112023_1.2
 
 * Repository restructured to be up-to-date with private ``Github Repository Template``.
 * black7375's Lepton updated to be in-sync with original repository (v8.1.0)
