@@ -8,7 +8,7 @@
 <br />
 <div align="center">
 <!--   <a href="https://github.com/MVukanichh/MVsFirefoxEnhanced">
-    <img src="assets/images/logo.png" alt="Logo" width="896" height="368">
+    <img src="../assets/images/logo.png" alt="Logo" width="896" height="368">
   </a>
  -->
 
@@ -17,9 +17,9 @@
   <p align="center">
    MVukanichh's Firefox Enhanced improves Firefox by enhancing it's speed, look and feel.
     <br />
-    <a href="../main/.github/CHANGELOG.md">View Changelog</a>
+    <a href="../.github/CHANGELOG.md">View Changelog</a>
     ·
-    <a href="../main/LICENSE">View License</a>
+    <a href="../LICENSE">View License</a>
     ·
     <a href="https://github.com/MVukanichh/MVsFirefoxEnhanced/issues">Report Bug</a>
     ·
